@@ -5,9 +5,9 @@ highlighter:      rouge
 remote_theme : fongandrew/hydeout
 
 # Setup
-title:            Furret
-tagline:          '正射必中'
-description:      '正射必中' # 'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Life Developer
+tagline:          'Keep walking'
+description:      'Keep walking' # 'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://ftatp.github.io
 baseurl:          "" # '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
